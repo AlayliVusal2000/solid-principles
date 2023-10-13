@@ -5,7 +5,6 @@ public class Fish implements Alive {
     public void eats() {
         System.out.println("Fishes eat");
     }
-
     @Override
     public void moves() {
         // You can write your code here
